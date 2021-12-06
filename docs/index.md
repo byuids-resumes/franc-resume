@@ -16,30 +16,30 @@ Data Scientist and Developer
 
 ## Experience
 
-### Data Science Lead
+### Reports and Systems Developer and Analyst
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`July 2021 - Present`
+__Brigham Young University - Idaho__
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Redesigned the hiring process pipeline, reducing the time required to create and edit forms by 96%.
+- Reduced semesterly forecast MAPE by 78% and weekly forecast MAPE by 90%, resulting in an estimated $60,000 yearly savings.
+- Wrangled data from over 20,000 tickets from TeamDynamix into Python and presented findings to partnering departments.
+- Maintained or created over 20 dashboards in both Power BI and Python for use throughout the Business Solutions Center.
 
-### Data Science Consulting Team
+### Data Collection Project Manager
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`September 2021 - December 2021`
+__Sotheby's International Realty__, Contract
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Managed mixed teams consisting of 12 programmers responsible for both front and back-end development.
+- Built an online dashboard for web scraping property listing prices.
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+### Teaching Assistant
+`September 2021 - December 2021`
+__Brigham Young University - Idaho__
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+Machine Learning and Data Mining
+- Aided students in the process of exploring, cleaning, and visualizing data, training various supervised learning models, and issuing formal reports on their findings.
 
 ## Education
 
@@ -52,8 +52,8 @@ __Pinnacle Management Group__,
 
 ## Volunteer History
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2019`
+__Service Missionary__, Tampico, Mexico
 
 
 
